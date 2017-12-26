@@ -1,0 +1,62 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table manishbasnet_movies_'
+    - builder_table_create_manishbasnet_movies_.php
+1.0.3:
+    - 'Updated table manishbasnet_movies_'
+    - builder_table_update_manishbasnet_movies_.php
+1.0.4:
+    - 'Updated table manishbasnet_movies_'
+    - builder_table_update_manishbasnet_movies__2.php
+1.0.5:
+    - 'Created table manishbasnet_movies_genres'
+    - builder_table_create_manishbasnet_movies_genres.php
+1.0.6:
+    - 'Created table manishbasnet_movies_movies_genres'
+    - builder_table_create_manishbasnet_movies_movies_genres.php
+1.0.7:
+    - 'Updated table manishbasnet_movies_'
+    - builder_table_update_manishbasnet_movies__3.php
+1.0.8:
+    - 'Created table manishbasnet_movies_user'
+    - builder_table_create_manishbasnet_movies_user.php
+1.0.9:
+    - 'Created table manishbasnet_movies_userinfo'
+    - builder_table_create_manishbasnet_movies_userinfo.php
+1.0.10:
+    - 'Created table manishbasnet_movies_userrole'
+    - builder_table_create_manishbasnet_movies_userrole.php
+1.0.11:
+    - 'Updated table manishbasnet_movies_user'
+    - builder_table_update_manishbasnet_movies_user.php
+1.0.12:
+    - 'Updated table manishbasnet_movies_user'
+    - builder_table_update_manishbasnet_movies_user_2.php
+1.0.13:
+    - 'Updated table manishbasnet_movies_userrole'
+    - builder_table_update_manishbasnet_movies_userrole.php
+1.0.14:
+    - 'Updated table manishbasnet_movies_userrole'
+    - builder_table_update_manishbasnet_movies_userrole_2.php
+1.0.15:
+    - 'Updated table manishbasnet_movies_user'
+    - builder_table_update_manishbasnet_movies_user_3.php
+1.0.16:
+    - 'Updated table manishbasnet_movies_userrole'
+    - builder_table_update_manishbasnet_movies_userrole_3.php
+1.0.17:
+    - 'Updated table manishbasnet_movies_user'
+    - builder_table_update_manishbasnet_movies_user_4.php
+1.0.18:
+    - 'Updated table manishbasnet_movies_userinfo'
+    - builder_table_update_manishbasnet_movies_userinfo.php
+1.0.19:
+    - 'Updated table manishbasnet_movies_userrole'
+    - builder_table_update_manishbasnet_movies_userrole_4.php
+1.0.20:
+    - 'Drop table manishbasnet_movies_userrole'
+    - builder_table_delete_manishbasnet_movies_userrole.php
+1.0.21:
+    - 'Created table manishbasnet_movies_userrole'
+    - builder_table_create_manishbasnet_movies_userrole_2.php

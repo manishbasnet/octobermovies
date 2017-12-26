@@ -1,0 +1,6 @@
+columns:
+    role_code:
+        label: role
+        type: text
+        searchable: true
+        sortable: true

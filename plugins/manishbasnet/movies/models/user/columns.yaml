@@ -1,0 +1,6 @@
+columns:
+    username:
+        label: Username
+        type: text
+        searchable: true
+        sortable: true

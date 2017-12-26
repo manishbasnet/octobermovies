@@ -1,0 +1,28 @@
+plugin:
+    name: 'manishbasnet.movies::lang.plugin.name'
+    description: 'manishbasnet.movies::lang.plugin.description'
+    author: 'Manish Basnet'
+    icon: oc-icon-video-camera
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Movies
+        url: manishbasnet/movies/movies
+        icon: icon-video-camera
+        sideMenu:
+            side-menu-item:
+                label: Genres
+                url: manishbasnet/movies/genres
+                icon: icon-tencent-weibo
+    main-menu-item2:
+        label: Users
+        url: manishbasnet/movies/users
+        icon: icon-user
+    main-menu-item3:
+        label: UserInfo
+        url: manishbasnet/movies/userinfo
+        icon: icon-info
+    main-menu-item4:
+        label: userrole
+        url: manishbasnet/movies/userroles
+        icon: icon-life-ring

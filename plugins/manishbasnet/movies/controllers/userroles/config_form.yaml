@@ -1,0 +1,10 @@
+name: Userroles
+form: $/manishbasnet/movies/models/userrole/fields.yaml
+modelClass: ManishBasnet\Movies\Models\Userrole
+defaultRedirect: manishbasnet/movies/userroles
+create:
+    redirect: 'manishbasnet/movies/userroles/update/:id'
+    redirectClose: manishbasnet/movies/userroles
+update:
+    redirect: manishbasnet/movies/userroles
+    redirectClose: manishbasnet/movies/userroles

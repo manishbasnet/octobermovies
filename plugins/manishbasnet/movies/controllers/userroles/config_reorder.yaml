@@ -1,0 +1,4 @@
+title: Userroles
+modelClass: ManishBasnet\Movies\Models\Userrole
+toolbar:
+    buttons: reorder_toolbar

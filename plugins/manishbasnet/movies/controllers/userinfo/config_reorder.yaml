@@ -1,0 +1,4 @@
+title: Userinfo
+modelClass: ManishBasnet\Movies\Models\Userinfo
+toolbar:
+    buttons: reorder_toolbar

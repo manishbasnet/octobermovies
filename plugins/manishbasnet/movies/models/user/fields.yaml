@@ -1,0 +1,11 @@
+fields:
+    username:
+        label: Username
+        oc.commentPosition: ''
+        span: auto
+        type: text
+    password:
+        label: Password
+        oc.commentPosition: ''
+        span: auto
+        type: password

@@ -1,0 +1,10 @@
+name: Users
+form: $/manishbasnet/movies/models/user/fields.yaml
+modelClass: ManishBasnet\Movies\Models\User
+defaultRedirect: manishbasnet/movies/users
+create:
+    redirect: 'manishbasnet/movies/users/update/:id'
+    redirectClose: manishbasnet/movies/users
+update:
+    redirect: manishbasnet/movies/users
+    redirectClose: manishbasnet/movies/users

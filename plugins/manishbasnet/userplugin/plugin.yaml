@@ -1,0 +1,6 @@
+plugin:
+    name: 'manishbasnet.userplugin::lang.plugin.name'
+    description: 'manishbasnet.userplugin::lang.plugin.description'
+    author: 'Manish Basnet'
+    icon: oc-icon-adjust
+    homepage: ''

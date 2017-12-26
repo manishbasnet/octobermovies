@@ -1,0 +1,10 @@
+name: Movies
+form: $/manishbasnet/movies/models/movie/fields.yaml
+modelClass: ManishBasnet\Movies\Models\Movie
+defaultRedirect: manishbasnet/movies/movies
+create:
+    redirect: 'manishbasnet/movies/movies/update/:id'
+    redirectClose: manishbasnet/movies/movies
+update:
+    redirect: manishbasnet/movies/movies
+    redirectClose: manishbasnet/movies/movies

@@ -1,0 +1,11 @@
+fields:
+    role_code:
+        label: role
+        oc.commentPosition: ''
+        span: auto
+        type: text
+    user_id:
+        label: User
+        oc.commentPosition: ''
+        span: auto
+        type: dropdown

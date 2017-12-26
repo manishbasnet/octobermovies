@@ -1,0 +1,10 @@
+name: Genres
+form: $/manishbasnet/movies/models/genre/fields.yaml
+modelClass: ManishBasnet\Movies\Models\Genre
+defaultRedirect: manishbasnet/movies/genres
+create:
+    redirect: 'manishbasnet/movies/genres/update/:id'
+    redirectClose: manishbasnet/movies/genres
+update:
+    redirect: manishbasnet/movies/genres
+    redirectClose: manishbasnet/movies/genres

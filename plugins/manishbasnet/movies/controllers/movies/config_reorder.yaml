@@ -1,0 +1,4 @@
+title: Movies
+modelClass: ManishBasnet\Movies\Models\Movie
+toolbar:
+    buttons: reorder_toolbar
